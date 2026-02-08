@@ -3,7 +3,7 @@ import ServicesPreview from "@/components/sections/ServicesPreview";
 import ReferencesPreview from "@/components/sections/ReferencesPreview";
 import NewsPreview from "@/components/sections/NewsPreview";
 
-export default function Home() {
+export default function EnHome() {
   return (
     <main>
       <Hero />
